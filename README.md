@@ -7,3 +7,4 @@
 * On Add A Toy route you will be able to add your own toy which will be displayed in your toy route and All Toys route as well
 * My Toys and Add A toy route is private route. You have to first log in, in order to view those route
 * Here is the Live Site Link: https://assignment-11-client-sid-3eadf.web.app/
+* I did this project for my course assignment which was a private repository. That is why you will see only one commit
